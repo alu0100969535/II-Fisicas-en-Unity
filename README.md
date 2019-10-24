@@ -26,7 +26,7 @@ El movimiento aleatorio de la segunda bola, la primera está fija.
 ![](img/movimiento_aleatorio.gif)
 
 ### Detección de colisiones
-El script [ChangeColor.cs] detecta las colisiones (sin físicas) y cambia el color de Ethan.
+El script [ChangeColor.cs](script/ChangeColor.cs) detecta las colisiones (sin físicas) y cambia el color de Ethan.
 
 ![](img/change_color.png)
 
